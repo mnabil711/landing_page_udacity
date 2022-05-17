@@ -2,8 +2,8 @@
 This is the first project in Udacity Nanodegree for front-end development professional track.
 
 ## Table of Contents
- * [Description]
- * [How To Run]
+ * [Description](#description)
+ * [How To Run](how to run)
  * [Instructions](#instructions)
 
 
