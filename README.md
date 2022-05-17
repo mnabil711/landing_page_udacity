@@ -1,5 +1,5 @@
 # Landing Page Project
-This is the first project in Udacity Nanodegree for front-end development profsional track.
+This is the first project in Udacity Nanodegree for front-end development professional track.
 
 ## Table of Contents
  * [Description]
