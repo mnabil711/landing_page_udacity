@@ -3,7 +3,7 @@ This is the first project in Udacity Nanodegree for front-end development profes
 
 ## Table of Contents
  * [Description](#description)
- * [How To Run](how to run)
+ * [How To Run](#how to run)
  * [Instructions](#instructions)
 
 
